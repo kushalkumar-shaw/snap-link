@@ -2,6 +2,8 @@
 
 This is a URL Shortening application built with Next.js that utilizes the TinyURL API to create short URLs from long URLs. This project demonstrates how to integrate a third-party API with a modern web framework like Next.js.
 
+![SnapLink ](https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png)
+
 ## Live Demo
 You can view the live application here: [Live Demo](https://ks-snap-link.vercel.app/)
 
